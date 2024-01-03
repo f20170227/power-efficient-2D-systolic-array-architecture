@@ -2,8 +2,4 @@
 Verilog and Python codes for a 2D systolic array for CNN based applications along with power-saving schemes. 
 
 
-Given below are the location of RTL codes for specific versions of a 2D systolic array. 
-1) Vanilla version is in project_vanilla folder.
-2) Multichannel version is in project_multichannel folder.
-3) Alpha 1 part (DBI) is in project_alpha1_dbi folder.
-4) Alpha 2 part (Toggle Reduction in MAC tile) is in project_alpha2 folder.
+The schemes include using DBI and toggle reduction in mac tile to save power.
